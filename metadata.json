@@ -1,0 +1,5 @@
+{
+  "name": "HangoverIntel",
+  "description": "A simulated Market Intelligence dashboard visualizing 'hangover cure' demand hotspots using simulated Facebook and Google Maps data.",
+  "requestFramePermissions": []
+}
